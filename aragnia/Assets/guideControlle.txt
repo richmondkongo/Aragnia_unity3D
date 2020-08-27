@@ -1,0 +1,12 @@
+Les touches de contrôle pour PC:
+    v: changer de mode(automatique-coup par coup o coup par coup-automatique).
+    r: changer de chargeur.
+    les touches directionnelles: pour aller devant-derrière-gauche-droite.
+    boutons de la souris: 
+        droite: viser (en maintenant)
+        gauche: tirer
+    g: lancer grenade
+    1: pour prendre arme 1
+    2: arme 2
+    x: pour viser de façon permanente sans avoir besoin de maintenir comme le bouton droit de la souris
+    e: pour ramasser des munitions
